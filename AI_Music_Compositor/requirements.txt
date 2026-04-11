@@ -1,0 +1,8 @@
+langgraph
+langchain-core
+langchain-groq
+music21
+pygame
+python-dotenv
+ipython
+jupyter
